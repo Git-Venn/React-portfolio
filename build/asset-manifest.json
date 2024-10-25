@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.667263aa.css",
-    "main.js": "/static/js/main.c375ec00.js",
-    "static/js/453.b3faef14.chunk.js": "/static/js/453.b3faef14.chunk.js",
-    "static/media/helvetica-neu.ttf": "/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/logo-kv.png": "/static/media/logo-kv.3f13174d49f219134aca.png",
-    "static/media/CoolveticaRg-Regular.woff2": "/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/index.html",
-    "main.667263aa.css.map": "/static/css/main.667263aa.css.map",
-    "main.c375ec00.js.map": "/static/js/main.c375ec00.js.map",
-    "453.b3faef14.chunk.js.map": "/static/js/453.b3faef14.chunk.js.map"
+    "main.css": "/React-portfolio/static/css/main.086130d6.css",
+    "main.js": "/React-portfolio/static/js/main.01f5f4f1.js",
+    "static/js/453.b3faef14.chunk.js": "/React-portfolio/static/js/453.b3faef14.chunk.js",
+    "static/media/helvetica-neu.ttf": "/React-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/React-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-kv.png": "/React-portfolio/static/media/logo-kv.3f13174d49f219134aca.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/React-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/React-portfolio/index.html",
+    "main.086130d6.css.map": "/React-portfolio/static/css/main.086130d6.css.map",
+    "main.01f5f4f1.js.map": "/React-portfolio/static/js/main.01f5f4f1.js.map",
+    "453.b3faef14.chunk.js.map": "/React-portfolio/static/js/453.b3faef14.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.667263aa.css",
-    "static/js/main.c375ec00.js"
+    "static/css/main.086130d6.css",
+    "static/js/main.01f5f4f1.js"
   ]
 }
