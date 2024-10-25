@@ -25,18 +25,10 @@ const About = () => {
                     />
                 </h1>
                 <p>
-                    I'm a very ambitious front-end developer looking for a role in an
-                    established IT company with the opportunity to work with the latest
-                    technologies on challenging and diverse projects.
+                I'm a tech enthusiast with two years of experience building software, especially when it comes to automating things and making them work smoothly. I've always been fascinated by how things work, and recently I've been diving deep into computer networking. It's like a whole new world of puzzles and challenges that I'm excited to explore.
                 </p>
                 <p>
-                    I'm quiet confident, naturally curious, and perpetually working on
-                    improving my chops one design problem at a time.
-                </p>
-                <p>
-                    If I need to define myself in one sentence that would be a family
-                    person, father of a beautiful daughter, a sports fanatic,
-                    photography enthusiast, and tech-obsessed!!!
+                I believe that understanding the bigger picture is key to success in tech, whether you're building software or managing networks. I'm always learning and growing, and I'm ready to take on new challenges and contribute to a great team.
                 </p>
             </div>
         </div>
